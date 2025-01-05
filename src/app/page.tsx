@@ -8,7 +8,7 @@ import Tempting from "@/components/Tempting";
 
 export default function Home() {
   return (
-    <div className="font-mono font-white">
+    <div className="font-wotfard tracking-wide font-white">
       <Navbar />
       <HeroSection />
       <Marquee />

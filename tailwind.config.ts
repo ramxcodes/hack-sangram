@@ -8,6 +8,9 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        wotfard: ["var(--font-Wotfard)"],
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",

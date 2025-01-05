@@ -14,7 +14,7 @@ export default function Navbar() {
               href="#about"
               className="hover:text-[#45BBD5] transition-all duration-150 ease-in-out"
             >
-              About
+              About Event
             </a>
             <a
               href="#register"
