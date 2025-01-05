@@ -11,28 +11,26 @@ export default function Navbar() {
         <div className="text-lg hidden md:block">
           <div className="flex gap-4">
             <a
-              href=""
-              target="_blank"
+              href="#about"
               className="hover:text-[#45BBD5] transition-all duration-150 ease-in-out"
             >
               About
             </a>
             <a
-              href=""
-              target="_blank"
+              href="#register"
               className="hover:text-[#45BBD5] transition-all duration-150 ease-in-out"
             >
-              What is Hack Sangraam?
+              Register
             </a>
           </div>
         </div>
         <div className="flex gap-4 items-center">
           <a
-            href=""
+            href="https://forms.gle/8qgWchFobv6jLAGR6"
             target="_blank"
             className="bg-[#45BBD5] px-4 py-1 rounded-md text-black hover:bg-[#45BBD5] transition-all duration-150 ease-in-out"
           >
-            Register
+            Fill the form!
           </a>
         </div>
       </nav>
